@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HLPageControl"
-  spec.version      = "0.0.2"
-  spec.summary      = "视屏组建"
+  spec.version      = "0.0.3"
+  spec.summary      = "分屏组建"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?

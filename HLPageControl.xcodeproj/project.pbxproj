@@ -49,6 +49,7 @@
 		E768759423C30714006D7E08 /* HLPageScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPageScrollView.h; sourceTree = "<group>"; };
 		E768759523C30714006D7E08 /* HLItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLItemCell.m; sourceTree = "<group>"; };
 		E768759623C30714006D7E08 /* HLPageControls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HLPageControls.h; sourceTree = "<group>"; };
+		E7DCC62F23C3626400163254 /* HLPageControl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HLPageControl.h; sourceTree = "<group>"; };
 		E7FA27FE23C31DA00093DC47 /* HLItemModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HLItemModel.h; sourceTree = "<group>"; };
 		E7FA27FF23C31DA00093DC47 /* HLItemModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HLItemModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -126,6 +127,7 @@
 				E768758D23C30714006D7E08 /* HLTransmitCollectionView.m */,
 				E768759423C30714006D7E08 /* HLPageScrollView.h */,
 				E768759023C30714006D7E08 /* HLPageScrollView.m */,
+				E7DCC62F23C3626400163254 /* HLPageControl.h */,
 			);
 			path = HLPageControlls;
 			sourceTree = "<group>";
